@@ -30,7 +30,7 @@ import java.io.IOException;
 import java.util.Vector;
 /**
  * Initial the camera
- * @author Ryan.Tang
+ * @author xuchao
  */
 public class CaptureActivity extends Activity implements Callback {
 
@@ -38,7 +38,6 @@ public class CaptureActivity extends Activity implements Callback {
 	private ViewfinderView viewfinderView;
 	private boolean hasSurface;
 	private Vector<BarcodeFormat> decodeFormats;
-
 	private String characterSet;
 	private InactivityTimer inactivityTimer;
 	private MediaPlayer mediaPlayer;
