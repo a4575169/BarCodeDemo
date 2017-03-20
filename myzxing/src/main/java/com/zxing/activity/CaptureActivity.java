@@ -30,7 +30,7 @@ import java.io.IOException;
 import java.util.Vector;
 /**
  * 二维码扫描页面
- * @author xuchao 2017
+ * @author xuchao
  */
 public class CaptureActivity extends Activity implements Callback {
 	private CaptureActivityHandler handler;
