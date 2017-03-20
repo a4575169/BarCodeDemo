@@ -29,7 +29,7 @@ import com.zxing.decoding.CaptureActivityHandler;
 import com.zxing.decoding.InactivityTimer;
 import com.zxing.view.ViewfinderView;
 /**
- * Initial the camera
+ * Initial the camera xxx
  * @author Ryan.Tang
  */
 public class CaptureActivity extends Activity implements Callback {
