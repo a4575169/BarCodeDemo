@@ -1,8 +1,5 @@
 package com.zxing.activity;
 
-import java.io.IOException;
-import java.util.Vector;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.content.res.AssetFileDescriptor;
@@ -32,8 +29,8 @@ import com.zxing.view.ViewfinderView;
 import java.io.IOException;
 import java.util.Vector;
 /**
- * Initial the camera xxx
- * @author Ryan.Tang
+ * Initial the camera
+ * @author xuchao
  */
 public class CaptureActivity extends Activity implements Callback {
 
