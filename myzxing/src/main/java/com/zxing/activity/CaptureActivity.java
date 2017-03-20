@@ -33,7 +33,6 @@ import java.util.Vector;
  * @author xuchao
  */
 public class CaptureActivity extends Activity implements Callback {
-
 	private CaptureActivityHandler handler;
 	private ViewfinderView viewfinderView;
 	private boolean hasSurface;
