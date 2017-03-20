@@ -29,7 +29,7 @@ import com.zxing.view.ViewfinderView;
 import java.io.IOException;
 import java.util.Vector;
 /**
- * Initial the camera
+ * 二维码扫描页面
  * @author xuchao
  */
 public class CaptureActivity extends Activity implements Callback {
