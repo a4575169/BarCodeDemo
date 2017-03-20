@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Fri Feb 10 11:51:42 CST 2017
+2.base=E\:\\workspace\\BarCodeDemo\\myzxing\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\workspace\\BarCodeDemo\\myzxing\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=E\:\\workspace\\BarCodeDemo\\myzxing\\build\\intermediates\\res\\resources-debug.ap_
+6.file=E\:\\workspace\\BarCodeDemo\\myzxing\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=E\:\\workspace\\BarCodeDemo\\myzxing\\build\\intermediates\\res\\resources-debug.ap_
+7.file=E\:\\workspace\\BarCodeDemo\\myzxing\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\beep.ogg
+7.set=ANDROID_RESOURCE
+count=8
+0.file=E\:\\workspace\\BarCodeDemo\\myzxing\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+5.base=E\:\\workspace\\BarCodeDemo\\myzxing\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=E\:\\workspace\\BarCodeDemo\\myzxing\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\workspace\\BarCodeDemo\\myzxing\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=E\:\\workspace\\BarCodeDemo\\myzxing\\build\\intermediates\\res\\resources-debug.ap_
+2.file=E\:\\workspace\\BarCodeDemo\\myzxing\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\realm_properties
+6.set=ANDROID_RESOURCE
+0.base=E\:\\workspace\\BarCodeDemo\\myzxing\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+3.file=E\:\\workspace\\BarCodeDemo\\myzxing\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=E\:\\workspace\\BarCodeDemo\\myzxing\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\workspace\\BarCodeDemo\\myzxing\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\camera.xml
+0.set=DEX

@@ -1,0 +1,4 @@
+#Fri Feb 10 11:51:42 CST 2017
+base.0=E\:\\workspace\\BarCodeDemo\\myzxing\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\workspace\\BarCodeDemo\\myzxing\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
