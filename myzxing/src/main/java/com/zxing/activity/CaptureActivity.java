@@ -1,8 +1,5 @@
 package com.zxing.activity;
 
-import java.io.IOException;
-import java.util.Vector;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.content.res.AssetFileDescriptor;
@@ -28,6 +25,9 @@ import com.zxing.camera.CameraManager;
 import com.zxing.decoding.CaptureActivityHandler;
 import com.zxing.decoding.InactivityTimer;
 import com.zxing.view.ViewfinderView;
+
+import java.io.IOException;
+import java.util.Vector;
 /**
  * Initial the camera
  * @author Ryan.Tang
@@ -38,6 +38,7 @@ public class CaptureActivity extends Activity implements Callback {
 	private ViewfinderView viewfinderView;
 	private boolean hasSurface;
 	private Vector<BarcodeFormat> decodeFormats;
+
 	private String characterSet;
 	private InactivityTimer inactivityTimer;
 	private MediaPlayer mediaPlayer;
